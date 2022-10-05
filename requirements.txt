@@ -6,4 +6,4 @@ pyarrow>=6.0.1
 tqdm>=4.62.3,<5
 faiss-cpu>=1.7.2,<2
 fsspec>=2022.1.0
-embedding_reader>=1.2.0,<2
+embedding_reader @ git+https://github.com/NiallBrickell/embedding-reader@1f33e9aa2813d6987e27385233ba760b8cacc2d0
